@@ -1,0 +1,61 @@
+﻿table.index_table
+{
+  border-collapse: collapse;
+}
+
+td.index_table_cell
+{
+  padding: 5px;
+  border: solid 1px #000000;
+}
+
+td.index_subcat_table_cell
+{
+  width: 50%;
+  padding: 5px;
+  border: solid 1px #000000;
+}
+
+.gallerytitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18pt;
+}
+
+.subcategorythumbnailtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+
+.thumbnailtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+
+.thumbnail {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.thumbnail_title {
+
+  text-align: center;
+}
+
+.subcategory_thumbnail {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.subcategory_thumbnail_title {
+
+  text-align: center;
+}
+
+.navigationtext {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigationdisabledtext {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #CCCCCC;
+}
